@@ -1,7 +1,7 @@
 {
   "name": "@peeraop21/v-calendar-buddhist",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A calendar(buddhist year) and date picker plugin for Vue.js.",
   "author": "Peera ",
   "repository": "https://github.com/peeraop21/v-calendar-buddhist",
